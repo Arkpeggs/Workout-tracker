@@ -15,7 +15,7 @@ An app to keep track of workouts and their durations. This has been deployed her
 npm install
 
 ## DEMO
-![landing](/public/images/landing.png)
-![Add exercise](/public/images/exercise.png)
-![dash](/public/images/dash.png)
+![landing](public/images/landing.PNG)
+![Add exercise](public/images/exercise.PNG)
+![dash](public/images/dash.PNG)
 
